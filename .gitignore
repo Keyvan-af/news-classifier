@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.vscode/
+
+# C#
+frontend/bin/
+frontend/obj/
+frontend/.vs/
+
+# General
+.DS_Store
+*.user
+*.suo
+*.cache
